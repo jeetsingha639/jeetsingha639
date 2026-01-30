@@ -1,97 +1,96 @@
-# 👋 Hi, I'm Jeet Singha
+<h1 align="center">Hi 👋, I'm Jeet Singha</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Open Source Enthusiast</h3>
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/jeetsingha639?style=social)](https://github.com/jeetsingha639)
-[![Profile Views](https://komarev.com/ghpvc/?username=jeetsingha639&color=blueviolet&style=flat-square)](https://github.com/jeetsingha639)
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+from+India;Building+Scalable+Web+Applications;Focused+on+Clean+Code+%26+Performance" />
+</p>
 
-**Full-Stack Developer | Open Source Enthusiast | Problem Solver**
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on **Full-Stack Web Applications**
-- 🌱 I'm passionate about building **scalable solutions** for real-world problems
-- 💡 I love exploring new technologies and developing software solutions
-- 🎯 Focus areas: **Web Development**, **Resource Management Systems**, **AI/Chatbots**
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeet-singha-594b0926a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jeetsingha6239@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jeetsingha639&style=flat&color=6D28D9"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+- Full Stack Developer focused on **real-world, scalable applications**
+- Strong foundation in **frontend, backend & databases**
+- Interested in **system design, APIs, and performance optimization**
+- Actively contributing to **open-source projects**
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🏭 **[Full-Stack Resource Management](https://github.com/jeetsingha639/Full-Stack-Project)** | Open-source system for managing resources in micro/small industries | Full-Stack |
-| 🏋️ **[Personal Trainer Management](https://github.com/jeetsingha639/Personal-Trainer-Management-System)** | Manage workout plans, track progress, organize training schedules | Full-Stack |
-| 🌍 **[Air-Water-Pollution Website](https://github.com/jeetsingha639/Air-Water-Pollution-Website)** | Environmental awareness and pollution tracking platform | HTML/CSS |
-| 🎮 **[GameStream Chatbot](https://github.com/jeetsingha639/GameStream-Chatbot)** | Interactive chatbot for gaming community | JavaScript |
-
-</div>
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+**Backend:** Node.js, Express, Python  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📊 GitHub Stats
+## Projects (Highlights)
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=jeetsingha639&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsingha639&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+- **Full-Stack Resource Management System**  
+  Role-based access, authentication, CRUD operations for micro & small industries
 
-</div>
+- **Personal Trainer Management System**  
+  Workout plans, schedules, progress tracking
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsingha639&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
+- **GameStream Chatbot**  
+  JavaScript-based interactive chatbot
 
 ---
 
-## 🤝 Let's Connect
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetsingha639&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsingha639&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeet-singha-594b0926a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeetsingha6239@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeetsingha6239)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsingha639&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jeet%20Singha&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Scalable%20Web%20Apps&descAlignY=55" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,mysql,git&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetsingha639&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=E5E7EB" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsingha639&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeetsingha639&theme=github_dark" />
+</p>
+
+<p align="center">
+  <i>Building clean, scalable solutions with focus on performance.</i>
+</p>
+
 
 ---
 
-<div align="center">
-  
-### 💡 *"Building solutions that make a difference"*
+<p align="center">
+  <i>"Building efficient solutions with clean code."</i>
+</p>
 
-⭐ **Feel free to star my repositories if you find them useful!** ⭐
-
-</div>
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories
+</p>
