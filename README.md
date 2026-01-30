@@ -17,59 +17,55 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Full Stack Developer focused on **real-world, scalable applications**
-- Strong foundation in **frontend, backend & databases**
-- Interested in **system design, APIs, and performance optimization**
-- Actively contributing to **open-source projects**
-
----
-
-## Tech Stack
-
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
-**Backend:** Node.js, Express, Python  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code  
+- 🔭 I'm currently working on **Full-Stack Web Applications**
+- 🌱 I'm passionate about building **scalable solutions** for real-world problems
+- 💡 I love exploring new technologies and developing software solutions
+- 🎯 Focus areas: **Web Development**, **Resource Management Systems**, **AI/Chatbots**
 
 ---
 
-## Projects (Highlights)
+## 🛠️ Tech Stack
 
-- **Full-Stack Resource Management System**  
-  Role-based access, authentication, CRUD operations for micro & small industries
+<div align="center">
 
-- **Personal Trainer Management System**  
-  Workout plans, schedules, progress tracking
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- **GameStream Chatbot**  
-  JavaScript-based interactive chatbot
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## GitHub Stats
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetsingha639&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsingha639&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsingha639&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏭 **[Full-Stack Resource Management](https://github.com/jeetsingha639/Full-Stack-Project)** | Open-source system for managing resources in micro/small industries | Full-Stack |
+| 🏋️ **[Personal Trainer Management](https://github.com/jeetsingha639/Personal-Trainer-Management-System)** | Manage workout plans, track progress, organize training schedules | Full-Stack |
+| 🌍 **[Air-Water-Pollution Website](https://github.com/jeetsingha639/Air-Water-Pollution-Website)** | Environmental awareness and pollution tracking platform | HTML/CSS |
+| 🎮 **[GameStream Chatbot](https://github.com/jeetsingha639/GameStream-Chatbot)** | Interactive chatbot for gaming community | JavaScript |
+
+</div>
 
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jeet%20Singha&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Scalable%20Web%20Apps&descAlignY=55" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,mysql,git&perline=5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetsingha639&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=E5E7EB" />
 </p>
 
 <p align="center">
